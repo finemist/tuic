@@ -220,7 +220,7 @@ Note that command line arguments can override the configuration file.
 
 - [Stash](https://stash.ws/) *
 
-* [Stash](https://stash.ws/) re-implemented the TUIC protocol from scratch, so it didn't preserve the GPL License.
+*[Stash](https://stash.ws/) re-implemented the TUIC protocol from scratch, so it didn't preserve the GPL License.
 
 ## FAQ
 
